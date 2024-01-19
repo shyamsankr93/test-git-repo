@@ -1,3 +1,3 @@
 
 # test-git-repo
-adding new line
+# adding new line - omit new line
